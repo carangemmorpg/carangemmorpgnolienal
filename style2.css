@@ -1,0 +1,104 @@
+p{
+	color: beige;
+}
+h1{
+	color: beige;
+}
+text{
+	color: azure;
+}
+h2{
+	padding: 30px 35px;
+	margin: 10px 50px;
+	text-align: center;
+	border-radius: 10px 10px 0 0;
+}
+hr{
+	margin: 10px 5px;
+}
+div.container{
+	width: 100px;
+	height: 110px;
+	margin: 35px auto;
+	font-family: "Ralewat", sans-serif;
+
+}
+div.main{
+	width: 300px;
+	padding: 10px 50px 25px;
+	border: 2px solid rgb(0, 0, 0);
+	border-radius: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	float: left;
+	margin-top: 50px;
+	background: rgb(255, 255, 255);
+}
+img{
+	height: 1px;
+	width: 4px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+input[type=text],.input[type=password]{
+	width: 14%;
+	height: 40px;
+	padding: 5px;
+	margin-bottom: 25px;
+	margin-top: 5px;
+	border: 2px solid wheat;
+	color: aliceblue;
+	font-size: 16px;
+	border-radius: 5px;
+	background: silver;
+}
+input[type=password],.input[type=login]{
+	width: 14%;
+	height: 40px;
+	padding: 5px;
+	margin-bottom: 25px;
+	margin-top: 5px;
+	border: 2px solid wheat;
+	color: aliceblue;
+	font-size: 16px;
+	border-radius: 5px;
+	background: silver;
+
+}
+label{
+	color: wheat;
+	text-shadow: o 1px o green;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+.note{
+	color: white;
+	float: left;
+	padding: 10px;
+}
+.valid{
+	color: gold;
+}
+input[type=button]{
+	font-size: 16px;
+	background: greenyellow;
+	border: 1px solid wheat;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+	border-radius: 60px;
+	outline: none;
+
+	width: 315px;
+	height: 40px;
+	padding: 5px;
+}
+body{
+	background: url(img/1.jpg);
+	
+}
+.logo {
+	image-resolution: 14px	;
+}
